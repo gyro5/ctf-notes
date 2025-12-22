@@ -1,4 +1,4 @@
-# Gyro's CTF Notes
+# CTF Notes
 
 This is my notes and cheatsheets for various CTF-related things, including tools, checklists, tips, etc.
 
