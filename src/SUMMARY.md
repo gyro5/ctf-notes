@@ -1,6 +1,6 @@
 # Summary
 
-[Home](index.md)
+[Gyro's CTF Notes](index.md)
 
 # FORENSICS
 
