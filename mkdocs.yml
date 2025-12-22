@@ -1,5 +1,5 @@
 site_name: Gyro's CTF Notes
-repo_url: https://todo
+repo_url: https://github.com/gyro5/ctf-notes
 docs_dir: src
 exclude_docs: |
   SUMMARY.md

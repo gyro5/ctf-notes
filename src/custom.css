@@ -1,0 +1,4 @@
+/* To hide nav buttons on wide format */
+.nav-chapters.next, .nav-chapters.previous {
+    display: none;
+}

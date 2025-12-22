@@ -5,6 +5,8 @@
 # FORENSICS
 
 - [Disk Image Forensics](forensics/forensics.md)
+- [Steganography](forensics/steganography.md)
+- [png-unhide](forensics/png-unhide.md)
 
 # MISC
 
