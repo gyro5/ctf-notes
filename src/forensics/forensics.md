@@ -20,7 +20,8 @@ An example would be `install_application.sh -z ~/Downloads/autopsy-4.19.2.zip -i
 
 The path to the Java 17 home is the last output from the prequisites installation scripts, but typically, the path will be in the result of running `update-java-alternatives -l | grep java-1.17` on Debian-based Linux.
 
-Note that as of the time of writing, Kali Linux no longer provides Java 17 in its repository.
+> [!NOTE]
+> Note that as of the time of writing, Kali Linux no longer provides Java 17 in its repository.
 
 After successfully installed, run with `/path/to/autopsy/bin/autopsy`.
 
