@@ -1,5 +1,8 @@
 site_name: Gyro's CTF Notes
 repo_url: https://todo
+docs_dir: src
+exclude_docs: |
+  SUMMARY.md
 theme:
   name: readthedocs
   collapse_navigation: false
