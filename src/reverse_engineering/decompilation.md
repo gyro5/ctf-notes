@@ -2,7 +2,7 @@
 
 ## Binary
 
-Online decompiler: <https://dogbolt.org/>
+Online decompiler with multiple decompiler output: <https://dogbolt.org/>
 
 ## Java
 

@@ -19,6 +19,7 @@
 
 # REVERSE ENGINEERING
 
+- [File reverse engineering](reverse_engineering/file_rev.md)
 - [Decompilation tools](reverse_engineering/decompilation.md)
 
 # OSINT
