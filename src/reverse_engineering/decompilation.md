@@ -1,5 +1,9 @@
 # Decompilation Notes
 
+## Binary
+
+Online decompiler: <https://dogbolt.org/>
+
 ## Java
 
 Online tool: <https://jdec.app/>.
