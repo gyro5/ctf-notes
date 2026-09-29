@@ -21,6 +21,7 @@
 
 - [File reverse engineering](reverse_engineering/file_rev.md)
 - [Decompilation tools](reverse_engineering/decompilation.md)
+- [GDB Cheatsheet](reverse_engineering/gdb.md)
 
 # OSINT
 
