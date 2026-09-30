@@ -27,3 +27,5 @@
 - `p (int)$rax`: Print register %rax as `int` (or any data type).
 
 - `p (char*)$rax`: Use register %rax as a string pointer, print both the address and the string.
+
+- `x\40x $rsp`: Show stack content (40 bytes).
