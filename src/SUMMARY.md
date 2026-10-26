@@ -25,3 +25,7 @@
 # OSINT
 
 - [OSINT](osint/osint.md)
+
+# Web
+
+- [SQL Injection](web/sql_injection.md)
