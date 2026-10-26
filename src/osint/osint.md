@@ -4,6 +4,7 @@
 
 - [OSINT Navigator](https://ekky19.github.io/osint/): List of tools for multiple OSINT-related things.
 
+- [CUPP](https://github.com/Mebus/cupp): Tool to generate password list based on personal information.
 
 ## Tips
 
